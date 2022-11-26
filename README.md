@@ -14,8 +14,9 @@
 
 今天是我们在一起的第{{love_day.DATA}}天 
 
-{{birthday1.DATA}} 
-{{birthday2.DATA}}
+距离大美女和大胖鱼的生日还有{{birthday1.DATA}}天 
+
+距离下个圣诞节还有{{birthday2.DATA}}天
 
 
 {{note_en.DATA}} 
